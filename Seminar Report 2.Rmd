@@ -1,0 +1,25 @@
+---
+title: "Seminar Reprot 2"
+author: "Kristin Schmidt"
+date: "November 8, 2018"
+output: html_document
+---
+
+Seminar Speaker's Name, Professional Title, & Affiliation: Klaus Rajewsky, M.D., Professor & Senior Group Leader in Immune Regulation & Cancer, at the Max Delbrück Center for Molecular Medicine, Berlin-Buch, Germany
+
+Date and Time: November 7, 2018 at 4PM
+
+Seminar Title: "Targeted mutagenesis and gene repair in modeling and controlling human lymphoid disorders"
+
+Summary of the seminar: 
+
+	The seminar was the third annual Houston Lectureship, and proudly presented Dr. Klaus Rajewski - Inventor of the Cre-Lox system. The presentation began with an interesting research question on B cell specialization. In particular, how we can use conditional targeting in B cell antigens to our advantage. B cell receptors (BCR) are needed for survival of the B cell, but they are also essential for the fitness and lineage of the cell. Additionally, BCR are needed for size and proliferation response, along with protein synthesis. B1 and B2 cell are particularly of interest as they are needed to get an immune response. Dr. Rajewski explained that there is a big difference between B1 and B2 cells, and that current research is questioning whether or not they are considered to either be of different lineage of different differentiation. He and his team determined to answer this question by using Cre to flip a gene in a B2 cell, creating a phenotypic switch. The BCR-meditated self-reactivity turned the B2 into a B1 cell, which concluded that the cells differ by differentiation.
+	
+	
+	Dr. Rajewski went on to speak about how the heavy chain and downstream cell reactions are involved in lymphoma. Specifically, he used TAT-cre to perform a BCR-mediated tumor cell fitness test. He claims that BCR is required for the fitness of a MYC transformed B cell. Following an experiment of BCR ablation, he described how IgM negative cells will die. If, however, the downstream cascade after antigen detection is broken (GSK3beta, for example), the IgM negative cells will survive. This is possible due to a RAS activation that helps overcome pathway inhibition. Dr. Rajewski concluded therefore that therapeutic targeting of the BCR cascade may need complementation with other drugs to fight tumor cells.
+	
+	
+	In Part II of the talk, Dr. Rajewski started off with the Epstein-Barr virus and explained how Hodkin Lymphoma tumor cells have a single point mutation, producing a stop codon. He stated that 40% of hodgkin cells were infected with EBV. An EBV-driven B cell has two receptors: one is the LMP1 receptor which mimics CD40, and the other is LMP2A which mimics an active BCR signal. This concludes that EBV uses the same pathway as a B cell to create and immortal cell line. There are two diseases associated with EBV infections: infectious mononucleosis, and inherited EBV-driven lymphoproliferative disorders which have a mutation in the germ line. This latter infection can't be fought by T cells, resulting in cancer. Dr. Rajewski and his team are interested in gene repair to cure this cancer. Their current research involves integration of LMP1, and LMP2A molecules into mice using Cre. In this scenario, T cells come in to try and kill infected EBV B cells, but fail either due to immunosuppression or genetic impairment (PRF1 gene encoding perforin). If T cells fail or are not present, the mouse dies. Using CRISPR/Cas9, his team was able to repair T cells to fight against EBV-driven B cell infection. They have also experimented with hematopoietic stem cells (HSC) from Cas9 transgenic mice to do knock-outs of transcription factor for B cell Pax5. Transfection of these HSC to IgM negative cells kills immortal B cell (analysis via FACS). In conclusion, stem cell repair and monoclonal antibody therapy can be used together to fight cancer!
+	
+	
+	Dr. Rajewski's research is not closely related to my project, but was very interesting. Although it seemed like most of what he spoke about went over my head, his enthusiasm about the topic was infectious! I would have liked to ask him if he is ever nervous anymore when he speaks in front of a crowd, and if he ever wants to stop research to retire. It was an incredible experience to be in the presence of a lifelong researcher, who is still passionate after so many years. I was impressed that I was able to understand most of the words and methods he used (even though I felt a little lost overall.) I even saw clustering and heatmaps in his data! Dr. Rajewski is a fascinating individual, and I am glad we have people like him in this world.
